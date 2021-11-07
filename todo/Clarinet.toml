@@ -1,0 +1,7 @@
+[project]
+name = "todo"
+requirements = []
+costs_version = 1
+[contracts.code]
+path = "contracts/code.clar"
+depends_on = []
